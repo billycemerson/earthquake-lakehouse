@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.uv/
+data/warehouse/*.duckdb
+data/warehouse/*.duckdb.wal
+logs/
+.env
